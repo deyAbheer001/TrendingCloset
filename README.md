@@ -1,9 +1,4 @@
-# AmazonaShop
-
-> Build Ecommerce App Like Amazon By MERN Stack
-
-## Live Prview Project
-[Demo Project](https://amazonashop.herokuapp.com/)
+# Closet Trend
 
 
 ## Features
@@ -17,10 +12,7 @@
 - Admin product management
 - Admin user management
 - Admin Order details page
-- Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
 
 ## Usage
 
